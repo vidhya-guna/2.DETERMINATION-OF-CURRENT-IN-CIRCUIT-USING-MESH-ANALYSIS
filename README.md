@@ -1,4 +1,6 @@
 # 2.DETERMINATION-OF-CURRENT-IN-CIRCUIT-USING-MESH-ANALYSIS
+## NAME: VIDHYA G
+## REF NO: 25018873
 
 **AIM:**
 
@@ -21,6 +23,16 @@
 *Multi-source DC circuits may be analyzed using a mesh current technique. The process involves identifying minimum number of small loops such that every component exists in at least one loop. KVL is then applied to each loop. The loop currents are referred to as mesh currents as each current interlocks or meshes with the surrounding loop currents. As a result there will be a set of simultaneous equations created, an unknown mesh current for each loop. Once the mesh currents are determined, various branch currents and component voltages may be derived*
 
 **CIRCUIT DIAGRAM:**
+
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/4745e38c-5ef8-404d-9b40-0e1a6cc42d64" />
+
+<img width="887" height="1280" alt="image" src="https://github.com/user-attachments/assets/e56069da-be96-4b2d-8cb5-bf6a6541a834" />
+
+<img width="1041" height="1280" alt="image" src="https://github.com/user-attachments/assets/546c2920-886c-4da2-ace1-076fdbf40450" />
+
+<img width="901" height="1280" alt="image" src="https://github.com/user-attachments/assets/40bda83a-1f8c-4888-b624-527a4efb6f2c" />
+
+
 
 **PROCEDURE:** 
 
